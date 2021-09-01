@@ -1,0 +1,6 @@
+{
+  "token": "ODM3MjY0OTkzMTMxOTU0MjE3.YIqByQ._0OOPDbFHEXocxoXCYrIfCJEWV0",
+  "prefix": ["!"],
+  "mongoUrl": "mongodb+srv://asreaperdb:25892589uU@maximusclubdb.tffle.mongodb.net/maximusclubdb?retryWrites=true&w=majority",
+  "owners": ["664146094183284776,800708440333877279"]
+}
